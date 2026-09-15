@@ -16,3 +16,8 @@ A basic calculator using C language by using "float" with the following features
 5. Decimal number support
 6. Division by zero protection
 7. Invalid operation handling 
+
+
+###3 Multiplicative table version 2 
+1. Improved version using do while loops
+2. Get any multiplicative Table you want
