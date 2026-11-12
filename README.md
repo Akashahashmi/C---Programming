@@ -102,8 +102,4 @@ Replace `filename.c` with the path to the C file you want to run.
 - Build more practical projects.
 - Gradually prepare for data structures and algorithms.
 
-## 🌱 My Goal
 
-I believe in learning one concept at a time and applying it through small programs. This repository will continue to grow as I complete more topics and build new projects.
-
-**Thanks for visiting my C programming learning journey!**
