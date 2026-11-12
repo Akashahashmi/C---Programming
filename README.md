@@ -94,12 +94,3 @@ You can compile and run these programs using GCC or another C compiler.
 
 Replace `filename.c` with the path to the C file you want to run.
 
-## 🎯 What's Next?
-
-- Practise more array problems.
-- Strengthen problem-solving skills.
-- Learn pointers and other C concepts.
-- Build more practical projects.
-- Gradually prepare for data structures and algorithms.
-
-
