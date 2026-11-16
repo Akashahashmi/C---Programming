@@ -18,11 +18,13 @@ File: `01-basics/basic_io.c`
 ### 2. Conditional Statements
 Practised decision-making using `if`, `if-else`, and `switch`.
 
-**Example:** Check whether a number is even or odd.
+**Examples:** Check whether a number is even or odd, choose a colour from a menu, display a day of the week, and assign a grade based on student marks.
 
 Files:
-- `02-conditionals/even_odd.c`
-- `02-conditionals/switch_day.c`
+- [Even or Odd](02-conditionals/even_odd.c)
+- [Switch — Day of the Week](02-conditionals/switch_day.c)
+- [Switch — Colour Choosing](02-conditionals/switch_colour.c)
+- [Switch — Student Marks and Grade](02-conditionals/switch_student_marks.c)
 
 ### 3. Loops
 Practised `for`, `while`, and `do-while` loops to repeat operations.
@@ -93,4 +95,3 @@ You can compile and run these programs using GCC or another C compiler.
    ```
 
 Replace `filename.c` with the path to the C file you want to run.
-
